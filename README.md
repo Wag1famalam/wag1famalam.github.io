@@ -1,4 +1,8 @@
-<title>Tesla</title> <style> p { border: 5px solid powderblue; } body { background-color: light blue; }
+<title>Tesla</title> 
+<style> 
+<body style="background-color:LightBlue;">
+p { 
+    border: 5px solid powderblue; } 
 </style>
 
 <body>
